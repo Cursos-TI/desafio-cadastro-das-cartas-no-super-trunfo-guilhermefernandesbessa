@@ -2,7 +2,7 @@
 
 int main(){
 //------- SUPER TRUFO -----
-//~~~~~ 1º carta ~~~~~~
+//~~~~~ 1º carta ~~~~~~~
 
  char estado1 [5], codigo1 [5], cidade1 [25];
  float area1, pib1, denpopulacional1, pibper1, superpoder1;
